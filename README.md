@@ -18,5 +18,5 @@ Sensit_3.0-1
 Sensit_3.0-2
 ```
 ### File names
-* Please name the JavaScript file with the name as the folder.
+* Please name the JavaScript file with the same name as the folder.
 * Please name the readme file "readme".
