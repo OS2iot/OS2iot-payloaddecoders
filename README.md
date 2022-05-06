@@ -1,6 +1,6 @@
 # OS2iot Payload decoders
 
-You can use this repository to find and share payload decoders tfor use in [OS2iot](https://os2.eu/produkt/os2iot).
+You can use this repository to find and share payload decoders for use in [OS2iot](https://os2.eu/produkt/os2iot).
 
 ## Getting Started
 
