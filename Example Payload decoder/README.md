@@ -13,9 +13,9 @@ Made from scratch, so no source available.
 ## Based on
 None.
 
-## Author: Add the name and/or GitHub user name of the person who is responsible for the payload decoder
+## Author
 * Mogens Kjeldsen, OS2
 * GitHub user: ramogens 
 
-### Contact: If wanted add a mail address so others can get in contact about the payload decoder.
+### Contact
 GitHub user: ramogens 
