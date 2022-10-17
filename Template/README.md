@@ -2,7 +2,7 @@
 [Add the name of the IoT-device model]
 
 ## Transmission type
-[Indicate if this for LoRaWAN, Sigfox etc.]
+[Indicate if this is for LoRaWAN, Sigfox etc.]
 
 ## Description
 [Descripe the purpose of the payload decoder]
