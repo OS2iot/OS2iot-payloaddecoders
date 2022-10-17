@@ -38,7 +38,7 @@ For now you can just copy/paste the content of the JavaScript file into the fiel
 
 ## Contributing
 
-See [OS2iot-docs](https://github.com/OS2iot/OS2IoT-docs/blob/master/CONTRIBUTING.md) for how to contribute.
+See [OS2iot-docs](https://github.com/OS2iot/OS2IoT-docs/blob/master/CONTRIBUTING.md) for information on how to contribute. If you want to share a payload decoder, but don't know how to use Github or just don't have the time, feel free to email a readme file and a JavaScript file to os2@os2.eu. Then we'll take care of putting it in this repository.
 
 ## License
 
