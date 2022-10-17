@@ -23,6 +23,8 @@ Sensit_3.0-2
 
 ## Description of payload decoders
 In order to help others understand and use your payload decoder, please fill out the requested information about it.
+You can copy a template of the description from the "Template"-folder.
+
 * **IoT-device model**: Add the name of the IoT-device model
 * **Transmission type**: Indicate if this is for LoRaWAN, Sigfox etc.
 * **Description**: Descripe the purpose of the payload decoder
