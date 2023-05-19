@@ -1,6 +1,7 @@
 # OS2iot Payload decoders
 
 You can use this repository to find and share payload decoders for use in [OS2iot](https://os2.eu/produkt/os2iot).
+NOTE: If your desired device isn't listed, you might be able to find inspiration in [The Things Network's LoRaWAN devices repository](https://github.com/TheThingsNetwork/lorawan-devices), which includes codec functions for some devices.
 
 ## Getting Started
 
