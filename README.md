@@ -43,6 +43,6 @@ See [OS2iot-docs](https://github.com/OS2iot/OS2IoT-docs/blob/master/CONTRIBUTING
 
 ## License
 
-The OS2iot project is licensed under the MPL-2.0 License - see the [LICENSE file](https://github.com/OS2iot/OS2IoT-frontend/blob/master/LICENSE) for details. Please be aware of this, if you contribute payload decoders to this repository.
+The OS2iot project and this repository is licensed under the MPL-2.0 License. Please be aware of this, if you contribute payload decoders to this repository.
 
 
