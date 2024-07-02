@@ -5,7 +5,7 @@
 [Indicate if this is for LoRaWAN, Sigfox etc.]
 
 ## Description
-[Descripe the purpose of the payload decoder]
+[Describe the purpose of the payload decoder]
 
 ## Source
 [If possible add a link to the source of the payload decoder - for example https://www.elsys.se/en/elsys-payload/]
