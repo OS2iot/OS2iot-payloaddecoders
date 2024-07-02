@@ -7,6 +7,10 @@
 ## Description
 [Describe the purpose of the payload decoder]
 
+## Example output data
+````JSON
+{"example":1234}
+```` 
 ## Source
 [If possible add a link to the source of the payload decoder - for example https://www.elsys.se/en/elsys-payload/]
 
