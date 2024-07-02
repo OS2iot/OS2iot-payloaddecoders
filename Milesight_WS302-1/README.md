@@ -40,7 +40,7 @@ Decode data from the soundlevel sensor. Data model is compatible with NGSI-LD.
 ```` 
 
 ## Source
-https://github.com/Milesight-IoT/SensorDecoders/tree/main/EM_Series/EM300_Series/EM320-TH
+https://github.com/Milesight-IoT/SensorDecoders/tree/main/WS_Series/WS302
 
 ## Based on
 Milesights own decoder. Adjusted for OS2Iot
