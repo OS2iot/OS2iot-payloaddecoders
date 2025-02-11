@@ -1,6 +1,7 @@
 //Function to decode status messages for Axioma payloads
 //Originally by Alexandre Alapetite, github.com/Alkarex for node-red
 //Adjusted by Alexander Ibsen, alei@aarhus.dk for OS2IoT and NGSI-LD format
+//Last updates jan-2025
 
 function statusAxiomaShort(s) {
     const messages = [];
