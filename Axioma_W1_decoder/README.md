@@ -1,44 +1,52 @@
-IoT-device model
-Milesight EM320-TH
+# IoT-device model
+Axioma W1
 
-Transmission type
+## Transmission type
 LoRaWAN
 
-Description
-Decode data from the sensor. Data model is compatible with NGSI-LD.
+## Description
+Decode data from the sensor. Data model is compatible with NGSI-LD. Made for OS2IoT
 
-Example output data
-{
-        "id": "refrigerator-sensor:1234-Milesight",
-        "type": "refrigerator-sensor",
+## Example output data
+````JSON
+    {
+        "id": "water-meter:111111-axioma",
+        "type": "water-meter",
         "name": {
             "type": "Property",
-            "value": "EM320-1234"
+            "value": "Vand, bassin - Skole"
         },
-        "temperature": {
+        "logVolume": {
             "type": "Property",
-            "value": 5.6,
-            "observedAt": "2024-07-02T12:26:21.58737Z"
+            "value": 139.55,
+            "observedAt": "2025-02-10T18:00:03.000Z"
         },
-        "humidity": {
+        "state": {
             "type": "Property",
-            "value": 94,
-            "observedAt": "2024-07-02T12:26:21.58737Z"
+            "value": 0,
+            "observedAt": "2025-02-10T18:00:03.000Z"
         },
-        "battery": {
-            "type": "Property",
-            "value": 98,
-            "observedAt": "2024-07-02T12:26:21.58737Z"
+        "location": {
+            "type": "GeoProperty",
+            "value": {
+                "type": "Point",
+                "coordinates": [
+                    12.123444,
+                    53.134211
+                ]
+            }
         }
     }
-Source
-https://github.com/Milesight-IoT/SensorDecoders/tree/main/EM_Series/EM300_Series/EM320-TH
+```` 
 
-Based on
-Milesights own decoder. Adjusted for OS2Iot
+## Source
+No Source
 
-Author
+## Based on
+https://gist.github.com/Alkarex/4b5d1fef2ff84d483e2793ed009ef607
+
+## Author
 miniib (Github)
 
-Contact
+### Contact
 Alexander Ibsen, alei@aarhus.dk
