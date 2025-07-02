@@ -1,6 +1,6 @@
 # IoT-device model
 Milesight WTS305 Weather Station
-(Milesight WTS506 Weather Station)[https://www.milesight.com/iot/product/lorawan-sensor/wts506]
+[Milesight WTS506 Weather Station](https://www.milesight.com/iot/product/lorawan-sensor/wts506)
 
 ## Transmission type
 LoRaWAN
