@@ -2,7 +2,7 @@
 function decode(payload, metadata) {
     let decoded = Decoder(base64ToBytes(payload.data), payload.fPort);
     let res = {
-        "id": "urn:ngsi-ld:Device:" + payload.deviceInfo.devEui.slice(-6),
+        "id": "urn:ngsi-ld:sensor:netvox-" + payload.deviceInfo.devEui.slice(-6),
         "type": decoded.devicetype
     };
     
