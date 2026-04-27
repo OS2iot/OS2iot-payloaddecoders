@@ -58,6 +58,18 @@ function base64ToHex(str) {
   return result.toUpperCase();
 }
 
+// NGSI-LD compatible structure
+function getProperty(decodeddata, payload, propertyName, res)  {
+      if (decodeddata.hasOwnProperty(propertyName))
+      {
+          res[propertyName] = {
+              "type": "Property",
+              "value": decodeddata[propertyName],
+              "observedAt": new Date(payload.rxInfo[0].nsTime).toISOString()
+          }
+      }
+  }
+
 function decode(payload, metadata) {
     ndata = base64ToHex(payload.data);
 
